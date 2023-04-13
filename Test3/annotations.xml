@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>130443</id>
+      <name>Test3</name>
+      <size>13</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-04-12 16:04:34.532233+00:00</created>
+      <updated>2023-04-12 16:31:24.713469+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>12</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>133952</id>
+          <start>0</start>
+          <stop>12</stop>
+          <url>https://app.cvat.ai/api/jobs/133952</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>grievedplant179</username>
+        <email>grievedplant179@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>head</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-04-12 16:33:56.919760+00:00</dumped>
+  </meta>
+  <image id="0" name="000412.jpg" width="197" height="193">
+    <box label="head" source="manual" occluded="0" xtl="46.44" ytl="0.64" xbr="131.79" ybr="98.42" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="000414.jpg" width="236" height="419">
+    <box label="head" source="manual" occluded="0" xtl="8.34" ytl="1.60" xbr="156.22" ybr="210.28" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="143.08" ytl="105.94" xbr="221.13" ybr="229.18" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="052064.jpg" width="1920" height="1080">
+    <box label="head" source="manual" occluded="0" xtl="331.19" ytl="199.53" xbr="479.65" ybr="390.01" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="252.75" ytl="395.62" xbr="471.25" ybr="672.94" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="515.51" ytl="139.29" xbr="649.73" ybr="294.91" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="186b3b9e82eefe1147ad7af9b9673613.png" width="512" height="363">
+    <box label="head" source="manual" occluded="0" xtl="164.76" ytl="93.67" xbr="281.92" ybr="192.14" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="3741e4e7daf34a59ad2d3edede9772fb_cropped_666x416.jpg" width="666" height="416">
+    <box label="head" source="manual" occluded="0" xtl="307.36" ytl="56.51" xbr="425.20" ybr="201.24" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="396.60" ytl="17.61" xbr="531.60" ybr="185.79" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="91_1_708_775_273_403.jpg" width="1080" height="1920">
+    <box label="head" source="manual" occluded="0" xtl="672.51" ytl="725.74" xbr="1007.08" ybr="1178.17" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="509.03" ytl="923.44" xbr="569.86" ybr="995.68" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="581.26" ytl="931.05" xbr="642.09" ybr="1010.89" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="97_1_880_597_204_477.jpg" width="1080" height="1920">
+    <box label="head" source="manual" occluded="0" xtl="516.38" ytl="928.26" xbr="567.07" ybr="1001.13" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="582.91" ytl="931.43" xbr="646.28" ybr="1016.97" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="98_000329.jpg" width="566" height="532">
+    <box label="head" source="manual" occluded="0" xtl="192.17" ytl="2.64" xbr="395.84" ybr="264.25" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="356.34" ytl="1.76" xbr="473.10" ybr="180.85" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="9_99900144.jpg" width="550" height="569">
+    <box label="head" source="manual" occluded="0" xtl="82.99" ytl="0.00" xbr="339.32" ybr="288.25" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="SuanovRuslan.jpg" width="422" height="604">
+    <box label="head" source="manual" occluded="0" xtl="38.09" ytl="13.97" xbr="394.91" ybr="453.52" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="iasdfsad.jpg" width="640" height="426">
+    <box label="head" source="manual" occluded="0" xtl="143.88" ytl="44.97" xbr="193.79" ybr="116.68" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="282.37" ytl="132.85" xbr="306.97" ybr="162.37" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="326.65" ytl="103.32" xbr="358.99" ybr="144.09" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="414.53" ytl="127.22" xbr="453.89" ybr="177.84" z_order="0">
+    </box>
+    <box label="head" source="manual" occluded="0" xtl="518.57" ytl="123.00" xbr="546.68" ybr="160.96" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="images.jpeg" width="183" height="275">
+    <box label="head" source="manual" occluded="0" xtl="34.08" ytl="11.35" xbr="118.49" ybr="137.05" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="zzz728x485_1_471a8cbaffecd0b1c13a7d275ce2c248@1200x800_0xac120003_11750683051615833353.jpg" width="728" height="485">
+  </image>
+</annotations>
